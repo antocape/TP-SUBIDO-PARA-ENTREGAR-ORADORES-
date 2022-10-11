@@ -1,0 +1,58 @@
+#fotoba{
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.7)), url(../RESOURCES/IMG/imagenes_integrador_front/ba1.jpg);
+    color: white;
+    text-align: right;
+    padding: 15% 7% 7% 55%;
+    background-size: cover;
+    background-position: center;
+    font-size: small;
+    }
+
+    
+#steve,
+#bill,
+#ada {
+    width: 230px;
+    height: 240px;
+}
+.car{
+position: relative;
+
+}
+
+button> {
+    position: absolute;
+    display:list-item
+}
+
+.card-text2{
+    text-align: start;
+    width: 23em;
+    font-size: xx-small;
+}
+
+
+#columna2{
+    font-size: 0.6rem;
+    background-color: dimgray;
+    text-decoration: white;
+    margin: 0%;
+    
+}
+
+a:link, a:visited, a:active {
+    text-decoration:none;
+    color: white;
+}
+
+
+nav{
+    
+    overflow: auto;
+}
+
+footer {
+    background-color:rgb(33, 61, 92);
+
+}
+
